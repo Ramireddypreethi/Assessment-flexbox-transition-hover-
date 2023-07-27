@@ -5,7 +5,7 @@
 }
 .container{
     background-color: grey;
-    height: 800px;
+    height: 730px;
    
 }
 /* Position the image to the top right corner of its parent container, with a margin of 10 pixels from the edges.
@@ -26,6 +26,8 @@ img{
 }
 .para2{
     position: absolute;
-    top:50%;/*horizantally centered*/
-    left:50%;/*vertically centered*/
+    top:300px;/*vertically centered*/
+   /*horizantally centered*/
+    left:100px;
+   right:100px;
 }
