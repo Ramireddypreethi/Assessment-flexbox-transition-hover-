@@ -1,0 +1,31 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: grey;
+    height: 800px;
+   
+}
+/* Position the image to the top right corner of its parent container, with a margin of 10 pixels from the edges.
+ */
+img{
+    
+    position:absolute;
+    top:0;
+    right:0;
+    margin: 10px;
+
+}
+.para1{
+    position:absolute;
+    bottom:0;
+    left:0;
+    margin: 15px;
+}
+.para2{
+    position: absolute;
+    top:50%;/*horizantally centered*/
+    left:50%;/*vertically centered*/
+}
